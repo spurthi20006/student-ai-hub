@@ -1,0 +1,50 @@
+{
+  "total": 215,
+  "placedTotal": 148,
+  "overallRate": "68.8",
+  "byDegree": {
+    "Sci&Tech": {
+      "total": 126,
+      "placed": 95,
+      "rate": "75.4",
+      "avgDegreeP": "68.2",
+      "avgSalary": "298500"
+    },
+    "Comm&Mgmt": {
+      "total": 73,
+      "placed": 44,
+      "rate": "60.3",
+      "avgDegreeP": "64.1",
+      "avgSalary": "265000"
+    },
+    "Others": {
+      "total": 16,
+      "placed": 9,
+      "rate": "56.3",
+      "avgDegreeP": "61.8",
+      "avgSalary": "238000"
+    }
+  },
+  "workexStats": {
+    "withWorkex": "81.5",
+    "withoutWorkex": "61.2"
+  },
+  "streamStats": {
+    "Science": {
+      "rate": "73.1",
+      "total": 104
+    },
+    "Commerce": {
+      "rate": "64.7",
+      "total": 68
+    },
+    "Arts": {
+      "rate": "55.8",
+      "total": 43
+    }
+  },
+  "etestImpact": {
+    "above70": "79.3",
+    "below70": "58.6"
+  }
+}

@@ -1,0 +1,17 @@
+# env
+.env.local
+.env
+
+# deps
+node_modules/
+
+# build
+.next/
+out/
+
+# kaggle raw data (never commit)
+data/raw/
+
+# kaggle credentials
+kaggle.json
+.kaggle/
